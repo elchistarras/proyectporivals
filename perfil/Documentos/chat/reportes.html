@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reportar jugador</title>
+<link rel="stylesheet" href="reportes.css">
+</head>
+<body>
+
+<div class="page-wrapper">
+  <div class="frame">
+
+
+    <div class="slider" id="slider">
+
+      <div class="panel">
+        <h1 class="title">DENUNCIAR JUGADOR</h1>
+        <p class="subtitle">Elige la categoría más adecuada:</p>
+
+        <div class="options">
+          <div class="option" data-value="comunicacion">Comunicación inapropiada</div>
+          <div class="option" data-value="nombre">incumplimiento del pedido</div>
+          <div class="option" data-value="emergencia">Algun error de la pagina</div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h1 class="title">DESCRIPCIÓN</h1>
+        <p class="subtitle">Describa la acción en sí:</p>
+
+        <textarea id="descripcion" placeholder="Escriba aquí lo sucedido..."></textarea>
+      </div>
+
+      <div class="panel final">
+        <h1 class="title">✅ Gracias por su reporte</h1>
+        <p class="subtitle">Nuestro equipo lo revisará pronto.</p>
+      </div>
+
+    </div>
+
+  
+    <div class="steps">
+      <span class="step active" id="s1"></span>
+      <span class="step" id="s2"></span>
+      <span class="step" id="s3"></span>
+    </div>
+
+  
+    <div class="buttons">
+      <button class="cancel">Cancelar</button>
+      <button class="continue" id="continueBtn" disabled>Continuar</button>
+    </div>
+
+  </div>
+</div>
+
+<script src="reportes.js"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+2026/03/01 14:47:27.305 Info   Starting JoyToKey v7.3.2
+2026/03/01 14:47:27.305 Info   ExeFile = C:\Program Files (x86)\JoyToKey\JoyToKey.exe
+2026/03/01 14:47:27.305 Info   Args = C:\Program Files (x86)\JoyToKey\JoyToKey.exe
+2026/03/01 14:47:27.305 Info   DataDirectory = C:\Users\hakee\Documents\JoyToKey\
+2026/03/01 14:47:27.305 Info   Profile = 
+2026/03/01 14:47:27.305 Info   IniFile = C:\Users\hakee\Documents\JoyToKey\JoyToKey.ini
+2026/03/01 14:47:27.306 Info   Loading ini file: C:\Users\hakee\Documents\JoyToKey\JoyToKey.ini (AppInfo.cpp#263)
+2026/03/01 14:47:27.342 Info   LicenseKey "" is not valid
+2026/03/01 14:47:27.528 Info   Windows 10 or later (Main.cpp#106)
+2026/03/01 14:47:27.528 Info   Loading hid.dll (ProcessingHID.h#58)
+2026/03/01 14:47:27.529 Info   Initialized HID (Processing.cpp#178)
+2026/03/01 14:47:27.529 Info   Loading XInput1_4.dll (Processing.cpp#188)
+2026/03/01 14:47:27.534 Info   Initialized XInput (Processing.cpp#217)
+2026/03/01 14:47:27.731 Info   Initialized DirectInput (Processing.cpp#230)
+2026/03/01 14:47:27.734 Info   DetectJoysticks: Detected 0 XI joystick(s)
+2026/03/01 14:47:27.902 Info   0 joystick(s) are detected (Processing.cpp#317)
+2026/03/01 14:47:27.902 Info   ConfigDir=C:\Users\hakee\Documents\JoyToKey\*.cfg (ConfigFileManager.cpp#41)
+2026/03/01 14:47:27.938 Info   Failed to find AppLink.dat (AppLinkManager.cpp#29)
+2026/03/01 14:47:28.009 Info   Application is running with standard user privileges (Main.cpp#184)
+2026/03/01 14:47:28.018 Info   TimerInit: Initializing timer at 16 msec (with x1 speed mode)
+2026/03/01 14:47:28.018 Info   TimerInit: Timer initialized (Processing.cpp#1040)
+2026/03/01 14:47:44.032 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 14:47:44.032 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 14:49:22.449 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 14:49:22.449 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 14:49:37.637 Info   Detected a HID controller[0]: VendorId=0x045E, ProductId=0x02FF, UsagePage=1, Usage=5, Path=\\?\HID#VID_045E&PID_02FF&IG_00#7&221adb6e&5&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+2026/03/01 14:49:37.647 Info   Vendor = Microsoft
+2026/03/01 14:49:37.647 Info   Product = Controller (Xbox One For Windows)
+2026/03/01 14:49:37.647 Info   DeviceName = Xbox One Controller
+2026/03/01 14:49:37.647 Info   numAxis = 5 [1,1,1,1,1,0,0,0]
+2026/03/01 14:49:37.647 Info   numPOVs = 1
+2026/03/01 14:49:37.647 Info   numButtons = 16
+2026/03/01 14:49:37.699 Info   Detected XI device[0]
+2026/03/01 14:49:37.699 Info   VendorId=045E, ProductId=02FF
+2026/03/01 14:49:37.699 Info   GUID=045E02FF-1, Name=XInput Device #1
+2026/03/01 14:49:37.708 Info   DetectJoysticks: Detected 1 XI joystick(s)
+2026/03/01 14:49:38.318 Info   Detected a DI joystick: Controller (Xbox One For Windows), Controller (Xbox One For Windows), 02FF045E, {8E844C00-3C4C-11EE-8002-444553540000}
+2026/03/01 14:49:38.339 Info   Assign Xbox One Controller to Joystick[1] (045E02FF-1)
+2026/03/01 14:49:38.340 Info   1 joystick(s) are detected (Processing.cpp#317)
+2026/03/01 14:55:28.428 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 14:55:28.428 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:54:06.798 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:54:06.813 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:55:01.208 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:55:01.212 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:57:00.253 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:57:00.254 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:57:19.943 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:57:19.944 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:57:37.156 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:57:37.157 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 17:58:30.008 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 17:58:30.009 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 18:05:58.091 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 18:05:58.103 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 18:05:59.774 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 18:05:59.775 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 18:06:26.549 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 18:06:26.554 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 18:06:28.920 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 18:06:28.921 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:19:43.277 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:19:43.277 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:19:56.552 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:19:56.553 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:20:33.830 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:20:33.830 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:22:23.174 Info   DetectJoysticks: Detected 0 XI joystick(s)
+2026/03/01 19:22:23.267 Info   0 joystick(s) are detected (Processing.cpp#317)
+2026/03/01 19:23:22.200 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:23:22.200 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:23:39.388 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:23:39.388 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:23:52.617 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:23:52.617 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:24:00.869 Error  Failed to obtain the target window handle (Utils.cpp#357)
+2026/03/01 19:24:00.869 Error  Acceso denegado.
+ (Utils.cpp#358)
+2026/03/01 19:24:03.383 Info   DetectJoysticks: Detected 0 XI joystick(s)
+2026/03/01 19:24:03.420 Info   0 joystick(s) are detected (Processing.cpp#317)
+2026/03/01 19:24:04.405 Info   TimerTerminate: Terminating timer... (Processing.cpp#1045)
+2026/03/01 19:24:04.508 Info   TimerTerminate: Timer terminated (Processing.cpp#1071)
+2026/03/01 19:24:04.508 Info   Saving .ini file... (AppInfo.cpp#401)
+Application terminated
