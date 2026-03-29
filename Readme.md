@@ -33,8 +33,8 @@ Se creo las siguentes ramas como principales para el proyecto:
 Ramas secundarias para desarroladores (estas se crean sobre la rama Dev):
     1. Estas ramas van a ser por personas ya sea con su nombre, seudonimo, o cualquier nombre que gusten en estas podran desarrollar de manera in dependiente cada funcionalidad del proyecto sin miedo a romper el codigo. Ramas esperadas posibleas a crear a partir de la rama Dev
         a. HNMR, Chstaras, Hakemm *(opcional) -> Rama para Hakkem
-        a. FYEM, Fer, Fernanda  *(opcional) -> Rama para Fernanda
-        a. KPE, Kev, Kevin *(opcional) -> Rama para Kevin
+        b. FYEM, Fer, Fernanda  *(opcional) -> Rama para Fernanda
+        c. KPE, Kev, Kevin *(opcional) -> Rama para Kevin
 Ramas del backup
     beta y beta2, son las ramas de donde se respaldaron las antiguas versiones
 
