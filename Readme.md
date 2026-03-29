@@ -14,11 +14,11 @@ Programas a utilizar para el proyecto
 ## Struture of proyect
 
 Estructura de del proyecto
-1. BackEnd -> Carpeta para desarrollar servicios o microservicios cuando la app cresca (no ocuparemos temporalmente)
-2. DevOs -> Carpeta de scripts para despliegues en servidor (para temas de coliciones, base de datos, docker, etc)
-3. Documents -> Carpeta para documentacion de aspectos como arquitectura, servidores, configuraciones, etc 
-4. FrontEnd -> Carpeta para pagina web con Next js que servira para para front y back en un solo proyecto provicional mientras vaya creciendo
-5. Readme.md -> Archivo de documentacion que se llegara encontrar en mas carpetas
+    1. BackEnd -> Carpeta para desarrollar servicios o microservicios cuando la app cresca (no ocuparemos temporalmente)
+    2. DevOs -> Carpeta de scripts para despliegues en servidor (para temas de coliciones, base de datos, docker, etc)
+    3. Documents -> Carpeta para documentacion de aspectos como arquitectura, servidores, configuraciones, etc 
+    4. FrontEnd -> Carpeta para pagina web con Next js que servira para para front y back en un solo proyecto provicional mientras vaya creciendo
+    5. Readme.md -> Archivo de documentacion que se llegara encontrar en mas carpetas
 
 Esta estructara se crea en la rama main para que cuando se cree QA y Dev copien la estrutura desde main
 
