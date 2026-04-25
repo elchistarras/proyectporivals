@@ -1,0 +1,25 @@
+:root {
+  --red: #FF2D2D;
+  --red-dark: #C41A1A;
+  --yellow: #FFD600;
+  --bg:   #0B0B0B;
+  --bg2:  #111111;
+  --bg3:  #161616;
+  --text: #F0EDE8;
+  --muted: #6B6460;
+  --border: #222;
+  --online: #00e676;
+}
+
+.default-button{
+    max-width: 150px;
+    min-width: 110px;
+    width: 150px;
+    height: 36px;
+    border-color: transparent;
+    background-color: transparent;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    line-height: 1;
+}

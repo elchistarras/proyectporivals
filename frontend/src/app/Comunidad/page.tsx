@@ -2,7 +2,7 @@
 
 function Home() {
   return <>
-    <p>xd</p>
+    <p>Comunidad</p>
   </>
 }
 

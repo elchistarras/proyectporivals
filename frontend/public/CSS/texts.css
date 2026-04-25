@@ -1,0 +1,44 @@
+:root {
+  --red: #FF2D2D;
+  --red-dark: #C41A1A;
+  --yellow: #FFD600;
+  --bg:   #0B0B0B;
+  --bg2:  #111111;
+  --bg3:  #161616;
+  --text: #F0EDE8;
+  --muted: #6B6460;
+  --border: #222;
+  --online: #00e676;
+}
+
+
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 26px;
+    letter-spacing: 0.02em;
+    color: var(--text);
+    line-height: 1;
+}
+
+
+.textWhite{
+    color: var(--text);
+}
+
+.textRed{
+    color: var(--red);
+}
+
+.logotype-beta{
+    height: 20px;
+    width: 40px;
+    color: #fff;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    padding: 3px 7px;
+    border-radius: 2px;
+    background: var(--red);
+}
