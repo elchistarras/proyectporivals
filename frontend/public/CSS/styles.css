@@ -1,3 +1,8 @@
+/*********************************************************************
+****************** Estilos generales renderizados  *******************
+****************** por el cliente                  *******************
+*********************************************************************/
+
 :root {
   --red: #FF2D2D;
   --red-dark: #C41A1A;
@@ -10,11 +15,23 @@
   --border: #222;
   --online: #00e676;
 }
+
+/*********************************************************************
+****************** Estilos por defecto             *******************
+******************                                 *******************
+*********************************************************************/
+
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 *{
   font-family: 'Barlow', sans-serif;
+  color: var(--text);
 }
+
+/*********************************************************************
+****************** Estilos para los componentes    *******************
+****************** estructurales                   *******************
+*********************************************************************/
 
 html, body {
   background-color: var(--bg) ;
@@ -32,7 +49,6 @@ header, main, footer {
 header, footer {
   padding: 5px;
   display: flex;
-  align-items: center;
   height: 8%;
 }
 
@@ -48,16 +64,19 @@ main{
   height: auto;
 }
 
+/*
+
+
+
+
+
+
 .logo{
   height: auto;
   width: 175px;
   display: flex;
   justify-content:space-between;
   align-items: center;
-}
-
-footer > p {
-  color: var(--text);
 }
 
 .menu{
@@ -72,7 +91,4 @@ footer > p {
   height: 46px;
   width: 500px;
 }
-
-.menu > button {
-  color: var(--muted);
-}
+*/
